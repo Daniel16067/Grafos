@@ -1,0 +1,9 @@
+=== CAMINO MÁS CORTO ===
+Cantidad mínima de cuadras: 12
+Ruta:
+AA -> AB -> AC -> AI -> AK -> AT -> AS -> AR -> AQ -> BE -> BM -> CE -> CF
+
+=== CANTIDAD DE CAMINOS ===
+Caminos de exactamente 10 cuadras: 0
+Caminos de exactamente 50 cuadras: 24392051
+Caminos de exactamente 100 cuadras: 68959236256883668
