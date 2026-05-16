@@ -2,7 +2,11 @@ import networkx as nx
 import numpy as np
 from sympy import Matrix
 import matplotlib.pyplot as plt
+import sys
 
+# Abrir archivo y redirigir stdout
+archivo_resultados = open("resultados_grafo.txt", "w", encoding="utf-8")
+sys.stdout = archivo_resultados
 # =========================================================
 # 1. CREAR EL GRAFO DIRIGIDO
 # =========================================================
