@@ -4,6 +4,7 @@ Programa en Python que calcula rutas en un grafo de calles.
 
 ## Ver resultados numéricos (sin ejecutar)
 
+
 Haz clic aquí para ver los resultados:  
 🔗 [resultados_grafo.txt](https://raw.githubusercontent.com/Daniel16067/Grafos/main/resultados_grafo.txt)
 
